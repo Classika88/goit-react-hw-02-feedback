@@ -1,0 +1,19 @@
+.statistic {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.statisticList {
+  list-style: none;
+}
+
+.statisticItem {
+  margin: auto;
+  font-size: 30px;
+}
